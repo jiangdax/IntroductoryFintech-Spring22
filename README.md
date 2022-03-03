@@ -12,9 +12,7 @@
 <details>
 <summary>参考资料</summary>
   
-### 教材：[邱锡鹏《神经网络与深度学习》](https://nndl.github.io/nndl-book.pdf)  
-  
-### 其他： [其他资料](https://github.com/dasepli/nndl-materials)
+### 教材：[邱锡鹏《神经网络与深度学习》](https://nndl.github.io/nndl-book.pdf)  [课程资源](https://github.com/dasepli/nndl-materials)
 
  
 </details>
