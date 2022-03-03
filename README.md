@@ -1,5 +1,7 @@
 # IntroductoryFintech-Spring22
-## 2022-Spring-Swufe金融科技基础与实践课程笔记
+> 2022-Spring-Swufe金融科技基础与实践课程笔记  
+>       
+>  teacher:💃🏻Lisha Li   &ensp;   🕺@jiangdax
 ### 第二周课程内容
 1. 机器学习与人工智能概述
 2. Python基础语法介绍
